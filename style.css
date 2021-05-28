@@ -1,0 +1,53 @@
+.nav-link {
+  color: white !important;
+}
+
+.profile-pic {
+  width: 500px;
+  height: 300px;
+  margin: auto;
+}
+
+.profile-name {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+#about {
+  background-color: blanchedalmond;
+}
+
+.about-container {
+  width: 60%;
+  margin: auto;
+  border-style: double;
+}
+
+.about-pic {
+  border-right: double;
+}
+
+.details-table {
+  border-style: solid;
+  border-color: blue;
+}
+
+#education {
+  background-color: aquamarine;
+}
+
+#education .row {
+  border-style: double;
+}
+
+#achievements {
+  background-color: #162447;
+}
+
+#achievements h2 {
+  color: white;
+}
